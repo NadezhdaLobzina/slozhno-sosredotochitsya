@@ -4,11 +4,14 @@
 */
 
 :root {
-  --subtitle-text-color: #000028;
+  --contrast-color: #ff0070;
+  --transparent-contrast-color: rgba(255, 0, 112, 0.4);
   --background-color: #000028;
+  --subtitle-text-color: #000028;
   --accent-color: #ff0070;
   --headline-accent-color: #db00ff;
   --text-color: #f1b2ce;
+  --visibility: visible;
   --font-family: "IBM Plex mono";
   --font-weight: normal;
   --font-size: 18px;
